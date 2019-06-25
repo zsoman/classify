@@ -6,7 +6,7 @@ This was my thesis at the University of Debrecen Software Engineering faculty in
 
 ## Tech/framework used
 <b>Built with</b>
-- [Go](Software Engineering)
+- [Go](https://golang.org/)
 
 ## Build
 TODO

@@ -2,7 +2,8 @@
 A small bookmarking project written in Go and hosted on localhost.
 
 ## Motivation
-This was my thesis at the University of Debrecen Software Engineering faculty in 2016.
+This was my thesis at the [University of Debrecen](https://inf.unideb.hu/) Software Engineering faculty in 2016, 
+[A Go programozási nyelv (The Go programming language)](https://dea.lib.unideb.hu/dea/handle/2437/226358).
 
 ## Tech/framework used
 <b>Built with</b>
